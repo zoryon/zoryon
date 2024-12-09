@@ -30,6 +30,10 @@
 
 <br />
 
+Currently working on [eternalstudio.it](https://eternalstudio.it)
+
+<br />
+
 <!-- tech stack -->
 # Tech Stack
 <p>
