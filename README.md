@@ -1,7 +1,7 @@
 <!-- banner -->
 <p align="center">
   <a href="#">
-    <img src="./video/banner.webp" alt="Banner" width="60%">
+    <img src="./video/banner.webp" alt="Banner" width="100%">
   </a>
 </p>
 
