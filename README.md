@@ -29,24 +29,23 @@
 </p>
 
 <!-- github stats -->
-<table align="center" style="width: 100%; border: none; border-collapse: collapse;">
-    <tr>
-        <td style="text-align: center; padding: 5px; border: none;">
-            <img
-                src="https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-                alt="GitHub Stats"
-                style="width: 100%; height: 200px; object-fit: contain;"
-            >
-        </td>
-        <td style="text-align: center; padding: 5px; border: none;">
-            <img
-                src="https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=false"
-                alt="GitHub Streak Stats"
-                style="width: 100%; height: 200px; object-fit: contain;"
-            >
-        </td>
-    </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <div style="flex: 1; max-width: 40%; text-align: center; min-width: 300px;">
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+            alt="GitHub Stats"
+            style="width: 100%; height: 200px; object-fit: contain;"
+        >
+    </div>
+    <div style="flex: 1; max-width: 47.5%; text-align: center; min-width: 300px;">
+        <img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=true"
+            alt="GitHub Streak Stats"
+            style="width: 100%; height: 200px; object-fit: contain;"
+        >
+    </div>
+</div>
+
 
 <!-- tech stack -->
 <p align="center">
