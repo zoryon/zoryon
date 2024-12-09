@@ -13,7 +13,7 @@
 <h3 align="center">Welcome to my GitHub profile</h3>
 
 <!-- link tree -->
-<p align="center">
+<p align="center" style="font-size: 0.85rem;">
     <strong>
         <a href="#">Website</a>
     </strong> | 
@@ -29,7 +29,7 @@
 </p>
 
 <!-- github stats -->
-<table align="center" style="width: 100%;">
+<table align="center" border=0 style="width: 100%;">
     <tr>
         <td style="text-align: center; padding: 5px;">
             <img
