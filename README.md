@@ -29,24 +29,25 @@
 </p>
 
 <!-- github stats -->
-<table align="center" style="width: 100%; border: none; border-collapse: collapse;">
-    <tr>
-        <td style="text-align: center; padding: 5px; border: none;">
+<table align="center" style="width: 100%; border-collapse: collapse; border-color: transparent;">
+    <tr style="border-color: transparent;">
+        <td style="text-align: center; padding: 5px; border: 1px solid transparent;">
             <img
-                src="https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+                src="https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
                 alt="GitHub Stats"
                 style="width: 100%; height: 200px; object-fit: contain;"
             >
         </td>
-        <td style="text-align: center; padding: 5px; border: none;">
+        <td style="text-align: center; padding: 5px; border: 1px solid transparent;">
             <img
-                src="https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=false"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=true"
                 alt="GitHub Streak Stats"
                 style="width: 100%; height: 200px; object-fit: contain;"
             >
         </td>
     </tr>
 </table>
+
 
 <!-- tech stack -->
 <p align="center">
