@@ -29,16 +29,16 @@
 </p>
 
 <!-- github stats -->
-<table align="center" border=0 style="width: 100%;">
+<table align="center" style="width: 100%; border: none; border-collapse: collapse;">
     <tr>
-        <td style="text-align: center; padding: 5px;">
+        <td style="text-align: center; padding: 5px; border: none;">
             <img
                 src="https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
                 alt="GitHub Stats"
                 style="width: 100%; height: 200px; object-fit: contain;"
             >
         </td>
-        <td style="text-align: center; padding: 5px;">
+        <td style="text-align: center; padding: 5px; border: none;">
             <img
                 src="https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=false"
                 alt="GitHub Streak Stats"
