@@ -1,19 +1,19 @@
 <!-- banner -->
-<p align="center">
+<p>
   <a href="#">
     <img src="./video/banner.webp" alt="Banner" width="100%">
   </a>
 </p>
 
 <!-- welcome message -->
-<h1 align="center">
+<h1>
     📌Hi, I'm
     <a href="#">zoryon</a>!
 </h1>
-<h3 align="center">Welcome to my GitHub profile</h3>
+<h3>Welcome to my GitHub profile</h3>
 
 <!-- link tree -->
-<p align="center" style="font-size: 0.85rem;">
+<p style="font-size: 0.85rem;">
     <strong>
         <a href="#">Website</a>
     </strong> | 
@@ -31,7 +31,8 @@
 <br />
 
 <!-- tech stack -->
-<p align="center">
+# Tech Stack
+<p>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -63,7 +64,8 @@
 <br />
 
 <!-- github stats -->
-<div align="center">
+# GitHub Stats
+<div>
     <div style="max-width: 60%; min-width: 300px;">
         <img
             src="https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
@@ -83,6 +85,6 @@
 <br />
 <br />
 
-<p align="center" href="https://visitcount.itsvg.in">
+<p href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=zoryon&icon=2&color=0" alt="zoryon's github stats">
 </p>
