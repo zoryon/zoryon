@@ -28,25 +28,7 @@
     </strong>
 </p>
 
-<!-- github stats -->
-<table align="center" style="width: 100%; border: none; border-collapse: collapse;">
-    <tr>
-        <td style="text-align: center; padding: 5px; border: none;">
-            <img
-                src="https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-                alt="GitHub Stats"
-                style="width: 100%; height: 200px; object-fit: contain;"
-            >
-        </td>
-        <td style="text-align: center; padding: 5px; border: none;">
-            <img
-                src="https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=false"
-                alt="GitHub Streak Stats"
-                style="width: 100%; height: 200px; object-fit: contain;"
-            >
-        </td>
-    </tr>
-</table>
+<br />
 
 <!-- tech stack -->
 <p align="center">
@@ -77,6 +59,26 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<br />
+
+<!-- github stats -->
+<div align="center">
+    <div style="max-width: 60%; min-width: 300px;">
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+            alt="GitHub Stats"
+            style="width: 100%; height: 200px; object-fit: contain;"
+        >
+    </div>
+    <div style="max-width: 60%; min-width: 300px;">
+        <img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=true"
+            alt="GitHub Streak Stats"
+            style="width: 100%; height: 200px; object-fit: contain;"
+        >
+    </div>
+</div>
 
 <br />
 <br />
