@@ -65,22 +65,11 @@
 
 <!-- github stats -->
 # GitHub Stats
-<div>
-    <div style="max-width: 60%; min-width: 300px;">
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
-            alt="GitHub Stats"
-            style="width: 100%; height: 200px; object-fit: contain;"
-        >
-    </div>
-    <div style="max-width: 60%; min-width: 300px;">
-        <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=true"
-            alt="GitHub Streak Stats"
-            style="width: 100%; height: 200px; object-fit: contain;"
-        >
-    </div>
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoryon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br />
 <br />
