@@ -8,14 +8,14 @@
 <!-- welcome message -->
 <h1>
     📌Hi, I'm
-    <a href="#">zoryon</a>!
+    <a href="https://zoryon.vercel.app/">zoryon</a>!
 </h1>
 <h3>Welcome to my GitHub profile</h3>
 
 <!-- link tree -->
 <p style="font-size: 0.85rem;">
     <strong>
-        <a href="#">Website</a>
+        <a href="https://zoryon.vercel.app/">Website</a>
     </strong> | 
     <strong>
         <a href="https://x.com/zoryon_">Twitter</a>
