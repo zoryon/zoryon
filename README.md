@@ -30,7 +30,7 @@
 
 <br />
 
-Currently working on [zoryon.vercel.app](https://zoryon.vercel.app) & [eternalstudio.it](https://eternalstudio.it)
+Currently working on [zoryon.vercel.app](https://zoryon.vercel.app) & [eternalstudio.it](https://eternalstudio.it) & [becalc.vercel.app](https://becalc.vercel.app)
 
 <br />
 
