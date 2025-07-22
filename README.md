@@ -15,7 +15,7 @@
 <!-- link tree -->
 <p style="font-size: 0.85rem;">
     <strong>
-        <a href="https://zoryon.vercel.app/](https://www.linkedin.com/in/gioele-spata-247396316/)" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/gioele-spata-247396316/" target="_blank">LinkedIn</a>
     </strong> | 
     <strong>
         <a href="https://x.com/zoryon_" target="_blank">Twitter</a>
