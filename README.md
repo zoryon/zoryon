@@ -15,22 +15,26 @@
 <!-- link tree -->
 <p style="font-size: 0.85rem;">
     <strong>
-        <a href="https://zoryon.vercel.app/">Website</a>
+        <a href="https://zoryon.vercel.app/](https://www.linkedin.com/in/gioele-spata-247396316/)" target="_blank">LinkedIn</a>
     </strong> | 
     <strong>
-        <a href="https://x.com/zoryon_">Twitter</a>
+        <a href="https://x.com/zoryon_" target="_blank">Twitter</a>
     </strong> |
     <strong>
-        <a href="https://discord.com/users/395998077552427019">Discord</a>
+        <a href="https://discord.com/users/395998077552427019" target="_blank">Discord</a>
     </strong> |
     <strong>
-        <a href="https://stackoverflow.com/users/20523865/zoryon">Stack Overflow</a>
+        <a href="https://stackoverflow.com/users/20523865/zoryon" target="_blank">Stack Overflow</a>
     </strong>
 </p>
 
 <br />
 
-Currently working on [zoryon.vercel.app](https://zoryon.vercel.app) & [eternalstudio.it](https://eternalstudio.it) & [becalc.vercel.app](https://becalc.vercel.app) & [link-manager-testing.vercel.app](https://link-manager-testing.vercel.app)
+Worked on:
+- [eternalstudio](https://eternalstudio.it)
+- [emmeservicesrl](https://emmeservicesrl.org)
+- [becalc](https://becalc.vercel.app)
+- [link-manager-testing](https://link-manager-testing.vercel.app)
 
 <br />
 
