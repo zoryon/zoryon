@@ -15,26 +15,26 @@
 <!-- link tree -->
 <p style="font-size: 0.85rem;">
     <strong>
-        <a href="https://www.linkedin.com/in/gioele-spata-247396316/" target="_blank">LinkedIn</a>
+        [LinkedIn](https://www.linkedin.com/in/gioele-spata-247396316){:target="_blank"}
     </strong> | 
     <strong>
-        <a href="https://x.com/zoryon_" target="_blank">Twitter</a>
+        [Twitter](https://x.com/zoryon_){:target="_blank"}
     </strong> |
     <strong>
-        <a href="https://discord.com/users/395998077552427019" target="_blank">Discord</a>
+        [Discord](https://discord.com/users/395998077552427019){:target="_blank"}
     </strong> |
     <strong>
-        <a href="https://stackoverflow.com/users/20523865/zoryon" target="_blank">Stack Overflow</a>
+        [Stack Overflow](https://stackoverflow.com/users/20523865/zoryon){:target="_blank"}
     </strong>
 </p>
 
 <br />
 
 Worked on:
-- [eternalstudio](https://eternalstudio.it)
-- [emmeservicesrl](https://emmeservicesrl.org)
-- [becalc](https://becalc.vercel.app)
-- [link-manager-testing](https://link-manager-testing.vercel.app)
+- [eternalstudio](https://eternalstudio.it){:target="_blank"}
+- [emmeservicesrl](https://emmeservicesrl.org){:target="_blank"}
+- [becalc](https://becalc.vercel.app){:target="_blank"}
+- [link-manager-testing](https://link-manager-testing.vercel.app){:target="_blank"}
 
 <br />
 
