@@ -6,7 +6,7 @@
 ### Welcome to my GitHub profile
 
 <!-- Link Tree -->
-**[LinkedIn](https://www.linkedin.com/in/gioele-spata-247396316)** |
+**[LinkedIn](https://www.linkedin.com/in/gioelespata)** |
 **[Twitter](https://x.com/zoryon_)** |
 **[Discord](https://discord.com/users/395998077552427019)** |
 **[Stack Overflow](https://stackoverflow.com/users/20523865/zoryon)**
