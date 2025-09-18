@@ -52,13 +52,6 @@
 <!-- GitHub Stats -->
 # 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zoryon&theme=dark&hide_border=false)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoryon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoryon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br/>
-<br/>
-
-![Visit Count](https://visitcount.itsvg.in/api?id=zoryon&icon=2&color=0)
