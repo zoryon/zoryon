@@ -1,6 +1,3 @@
-<!-- Banner -->
-[![Banner](./video/banner.webp)](#)
-
 <!-- Welcome Message -->
 # 📌 Hi, I'm [zoryon](https://zoryon.vercel.app/)!
 ### Welcome to my GitHub profile
