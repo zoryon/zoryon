@@ -11,6 +11,7 @@
 <br/>
 
 ### Worked on:
+- [zora-vault]
 - [noxchess](https://noxchess.vercel.app)
 - [eternalstudio](https://eternalstudio.it)
 - [emmeservicesrl](https://emmeservicesrl.org)
