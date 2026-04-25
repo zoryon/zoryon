@@ -17,8 +17,7 @@
 - [noxchess](https://noxchess.vercel.app)
 - [eternalstudio](https://eternalstudio.it)
 - [emmeservicesrl](https://emmeservicesrl.org)
-- [becalc](https://becalc.vercel.app)
-- [link-manager-testing](https://link-manager-testing.vercel.app)
+- [lasistemi](https://lasistemi.com)
 
 <br/>
 
