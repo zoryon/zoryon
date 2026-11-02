@@ -11,7 +11,7 @@
 <br/>
 
 ### Working on:
-- zora-vault
+- sinopia
 
 ### Worked on:
 - [noxchess](https://noxchess.vercel.app)
