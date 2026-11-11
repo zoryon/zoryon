@@ -11,7 +11,7 @@
 <br/>
 
 ### Working on:
-- sinopia
+- seamless
 
 ### Worked on:
 - [noxchess](https://noxchess.vercel.app)
